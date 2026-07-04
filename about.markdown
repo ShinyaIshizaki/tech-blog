@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a tech blog by a software engineer in Japan.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+All posts on this blog are my own personal views and are in no way affiliated with any companies or organizations I am currently or have previously been associated with.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I primarily post about the following topics:
 
+- Programming tutorials and development tips
+- Career advice for entering or changing jobs in the ICT industry
+- Web development and how to use various tools
 
-[jekyll-organization]: https://github.com/jekyll
+Through this tech blog, I’ll share my experiences as a software engineer and information useful for your work in an easy-to-understand way.
