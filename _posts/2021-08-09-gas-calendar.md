@@ -2,6 +2,7 @@
 title: "【GAS】Google Apps Scriptでうるう年判定と日数判定を行う方法【カレンダー作成】"
 slug: gas-calendar
 date: 2021-08-09T17:33:57
+last_modified_at: 2026-07-02
 categories: ["プログラミング"]
 tags: ["gas", "カレンダー"]
 ---

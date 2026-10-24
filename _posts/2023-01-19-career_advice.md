@@ -2,6 +2,7 @@
 title: "IT業界への就職・転職相談はこちらからお気軽にどうぞ！"
 slug: career_advice
 date: 2023-01-19T12:00:01
+last_modified_at: 2026-07-02
 categories: ["プログラミング", "就職・転職相談"]
 tags: ["就職相談", "転職相談"]
 ---

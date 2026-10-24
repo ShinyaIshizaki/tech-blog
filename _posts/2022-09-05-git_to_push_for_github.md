@@ -2,6 +2,7 @@
 title: "GitコマンドでGithubに新規登録〜変更点を登録する流れ"
 slug: git%e3%82%b3%e3%83%9e%e3%83%b3%e3%83%89%e3%81%a7github%e3%81%ab%e6%96%b0%e8%a6%8f%e7%99%bb%e9%8c%b2%e3%80%9c%e5%a4%89%e6%9b%b4%e7%82%b9%e3%82%92%e7%99%bb%e9%8c%b2%e3%81%99%e3%82%8b%e6%b5%81%e3%82%8c
 date: 2022-09-05T11:41:32
+last_modified_at: 2026-07-02
 categories: ["Mac", "プログラミング"]
 ---
 こんにちは。しんやです。

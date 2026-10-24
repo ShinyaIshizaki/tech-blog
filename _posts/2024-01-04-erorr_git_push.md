@@ -2,6 +2,7 @@
 title: "GitHubにPushできない時の対処法"
 slug: erorr_git_push
 date: 2024-01-04T13:54:18
+last_modified_at: 2026-07-02
 categories: ["プログラミング"]
 tags: ["Git", "GitHub"]
 ---

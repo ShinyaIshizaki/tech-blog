@@ -1,0 +1,32 @@
+.highlight {
+  position: relative;
+}
+
+.highlight pre.highlight {
+  padding-top: 42px;
+}
+
+.code-copy-button {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  z-index: 1;
+  padding: 4px 9px;
+  border: 1px solid #b8b8c8;
+  border-radius: 4px;
+  background: #fff;
+  color: #242424;
+  font: inherit;
+  font-size: 12px;
+  line-height: 1.5;
+  cursor: pointer;
+}
+
+.code-copy-button:hover {
+  background: #f3f3f7;
+}
+
+.code-copy-button:focus-visible {
+  outline: 2px solid #315efb;
+  outline-offset: 2px;
+}

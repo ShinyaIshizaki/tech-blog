@@ -2,6 +2,7 @@
 title: "Linux（Ubuntu）にAdobe Acrobat Readerをインストールする方法"
 slug: howtoinstall_of_acrobat-reader_for_ubuntu-target_blank-relnoopener
 date: 2024-01-20T17:01:04
+last_modified_at: 2026-07-02
 categories: ["Linux"]
 tags: ["Acrobat Reader", "Adobe", "Linux", "PDF"]
 ---

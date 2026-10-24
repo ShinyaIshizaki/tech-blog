@@ -2,6 +2,7 @@
 title: "MacでPythonのFlask環境を構築してHello, world!してみた"
 slug: flask_of_python_on_mac
 date: 2024-02-06T18:30:43
+last_modified_at: 2026-07-02
 categories: ["Mac", "プログラミング"]
 tags: ["Flask", "Python"]
 ---

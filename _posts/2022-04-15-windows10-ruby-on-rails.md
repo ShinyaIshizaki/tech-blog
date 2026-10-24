@@ -2,6 +2,7 @@
 title: "Windows10にRuby on Railsの環境を構築する"
 slug: windows10-ruby-on-rails
 date: 2022-04-15T10:24:37
+last_modified_at: 2026-07-02
 categories: ["Windows", "プログラミング"]
 ---
 こんにちは、しんやです。

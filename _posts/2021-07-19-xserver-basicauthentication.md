@@ -2,6 +2,7 @@
 title: "xserverでベーシック認証をつけて練習用サイトを公開する3つの手順"
 slug: xserver-basicauthentication
 date: 2021-07-19T18:19:19
+last_modified_at: 2026-07-02
 categories: ["プログラミング"]
 tags: ["basic認証", "xserver"]
 ---

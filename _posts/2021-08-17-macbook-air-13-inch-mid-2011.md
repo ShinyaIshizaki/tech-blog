@@ -2,6 +2,7 @@
 title: "MacBook Air (13-inch, Mid 2011)整備済み製品（中古）を購入して初めてしたこと"
 slug: macbook-air-13-inch-mid-2011
 date: 2021-08-17T09:48:10
+last_modified_at: 2026-07-02
 categories: ["Mac", "プログラミング"]
 tags: ["Mac", "プログラミング"]
 ---

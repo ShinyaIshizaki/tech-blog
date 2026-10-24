@@ -2,6 +2,7 @@
 title: "docomo Home 5Gを爆速にするたった1つのコツ"
 slug: docomo-home-5g
 date: 2022-04-12T10:05:12
+last_modified_at: 2026-07-02
 categories: ["インターネット"]
 tags: ["インターネット"]
 ---
